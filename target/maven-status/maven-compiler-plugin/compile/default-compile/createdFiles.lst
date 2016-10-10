@@ -1,0 +1,9 @@
+com/valant/test/dbresources/ItemEvents.class
+com/valant/test/inventory/services/EventsService.class
+com/valant/test/inventory/javaapp/RestHandler.class
+com/valant/test/inventory/services/InventoryService.class
+com/valant/test/inventory/javaapp/StartInventoryService.class
+com/valant/test/dbresources/ItemsInventory.class
+com/valant/test/dto/Item.class
+com/valan/test/inventory/ItemInventoryRules.class
+com/valant/test/dto/ItemEvent.class
